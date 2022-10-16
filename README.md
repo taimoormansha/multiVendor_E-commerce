@@ -55,6 +55,9 @@ and much more
 ## See All Orders
 ![image](https://user-images.githubusercontent.com/93200194/196039247-6b63118d-42e1-466c-89b6-f7d34bd3645b.png)
 
+## Delive the order
+## Order Cancel and Much more
+
 ## See All Reviews
 ![image](https://user-images.githubusercontent.com/93200194/196039292-7c43dad5-2cc7-4501-b0a4-6972ef4c4b4f.png)
 
